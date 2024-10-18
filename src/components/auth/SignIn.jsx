@@ -89,7 +89,6 @@ export default function SignIn() {
       <SignUpContainer direction="column" justifyContent="space-between">
         <Stack sx={{ justifyContent: 'center', height: '100dvh', p: 2 }}>
           <Card variant="outlined">
-            <SitemarkIcon />
             <Typography component="h1" variant="h4" sx={{ fontSize: 'clamp(2rem, 10vw, 2.15rem)' }}>
               Iniciar Sesión
             </Typography>
